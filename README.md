@@ -30,9 +30,3 @@ To fit the Gaussian Mixture Model run the following using the weights of epoch 1
 ```
 $ python stage_two.py --checkpoint ./tb_logs/pretext_task/version_1/checkpoints/weights.ckpt --data ./data/stage_two_data --num_classes 6 --exp_name exp_on_cdf --df_type cdf 
 ```
-
-### Copyrights
-
-- None of the FOSS components present in the NOTICE directory have been modified.
-
-- As per the FIS, there are no weak copyleft components in our implementation.
