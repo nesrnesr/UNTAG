@@ -1,0 +1,1 @@
+this should contain the real data used to fit the GMM.
