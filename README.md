@@ -1,4 +1,4 @@
-# [UNTAG]()
+# [UNTAG: Learning Generic Features for Unsupervised Type-agnostic Deepfake Detection](https://ieeexplore.ieee.org/document/10095983)
 ![UNTAG: pipeline image from UNTAG paper](image.png)
 Pipeline image from the UNTAG paper
 
